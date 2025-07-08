@@ -1,0 +1,14 @@
+uuid: c4d9dc44-59e1-4ec2-bb2c-0d9933dd12c9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - puneet.khatri@innoraft.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
